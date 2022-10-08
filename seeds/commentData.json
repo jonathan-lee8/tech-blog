@@ -1,0 +1,51 @@
+[
+  {
+    "user_id": 1,
+    "post_id": 2,
+    "comment_body": "No way, I totally disagree. There are way better options out there!"
+  },
+  {
+    "user_id": 4,
+    "post_id": 1,
+    "comment_body": "There are way better options out there!"
+  },
+  {
+    "user_id": 3,
+    "post_id": 3,
+    "comment_body": "CAP"
+  },
+  {
+    "user_id": 1,
+    "post_id": 3,
+    "comment_body": "No way, I totally disagree. There are way better options out there!"
+  },
+  {
+    "user_id": 4,
+    "post_id": 1,
+    "comment_body": "okay okay I see where you are going with that"
+  },
+  {
+    "user_id": 3,
+    "post_id": 2,
+    "comment_body": "nah, I disagree with you."
+  },  {
+    "user_id": 2,
+    "post_id": 4,
+    "comment_body": "Not bad, can you elaborate?"
+  },
+  {
+    "user_id": 4,
+    "post_id": 1,
+    "comment_body": "Interesting take."
+  },
+  {
+    "user_id": 3,
+    "post_id": 4,
+    "comment_body": "100%, I stand behind that!"
+  },
+  {
+    "user_id": 2,
+    "post_id": 3,
+    "comment_body": "Yeah, that makes a lot of sense. Good insight!"
+  }
+]

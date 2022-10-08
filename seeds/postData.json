@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Top 5 best languages to learn as a developer",
+    "user_id": 1,
+    "post_body": "Here, we list the top 5 best languages to learn right now as an incoming developer in 2022."
+  },
+  {
+    "title": "Why Python is the best language to learn.",
+    "user_id": 3,
+    "post_body": "Here, I am going to explain why Python is the best language to learn as a developer right now."
+  },
+  {
+    "title": "Why JavaScript is the best language to learn.",
+    "user_id": 4,
+    "post_body": "Here, I am going to explain why JavaScript is the best language to learn as a developer right now."
+  },
+  {
+    "title": "Why Java is the best language to learn.",
+    "user_id": 2,
+    "post_body": "Here, I am going to explain why Java is the best language to learn as a developer right now."
+  }
+]
