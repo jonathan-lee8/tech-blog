@@ -38,9 +38,3 @@ app.use(routes);
 sequelize.sync({ force: false }).then(() => {
   app.listen(PORT, () => console.log('Now Listening'));
 });
-
-
-
-const mySQL = require('mysql2');
-const dotenv = require('dotenv');
-const bcrypt = require('bcrypt');
